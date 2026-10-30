@@ -2,14 +2,14 @@
 
 ## Branch
 
-| | |
-| --- | --- |
-| Fork | `b84330808/puppeteer` |
-| Fix branch | `fix/bidi-set-cache-enabled-default` |
-| Commit SHA | `eadd7213862e134d630771030c3cc0d28cf9f73b` |
-| Base | `upstream/main` @ `884a8c3a` (`fix(bidi): return domain cookies for the domain itself in page.cookies() (#15689)`) |
-| Author / committer | `b84330808 <b84330808@gmail.com>`, no `Co-Authored-By` trailer |
-| Diff | `packages/puppeteer-core/src/bidi/Page.ts` (+1/-1), `test/src/page.test.ts` (+13) |
+|                         |                                                                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Fork                    | `b84330808/puppeteer`                                                                                               |
+| Fix branch              | `fix/bidi-set-cache-enabled-default`                                                                                |
+| Commit SHA              | `eadd7213862e134d630771030c3cc0d28cf9f73b`                                                                          |
+| Base                    | `upstream/main` @ `884a8c3a` (`fix(bidi): return domain cookies for the domain itself in page.cookies() (#15689)`)  |
+| Author / committer      | `b84330808 <b84330808@gmail.com>`, no `Co-Authored-By` trailer                                                      |
+| Diff                    | `packages/puppeteer-core/src/bidi/Page.ts` (+1/-1), `test/src/page.test.ts` (+13)                                   |
 | `TestExpectations.json` | no change needed. No entry matches `Page.setCacheEnabled`, and every suite reported "Test run matches expectations" |
 
 Compare / open PR from: `https://github.com/puppeteer/puppeteer/compare/main...b84330808:puppeteer:fix/bidi-set-cache-enabled-default`
